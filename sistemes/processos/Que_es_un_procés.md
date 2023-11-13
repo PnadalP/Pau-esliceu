@@ -1,2 +1,0 @@
-## Què és un Procés?
-Un procés és una entitat dinàmica que pot realitzar diverses funcions en un sistema informàtic. Cada procés té el seu propi espai d'execució i recursos assignats, com ara memòria i temps de CPU. La gestió adequada dels processos és clau per mantenir l'estabilitat del sistema i garantir una resposta eficient als usuaris.

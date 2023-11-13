@@ -1,2 +1,2 @@
-## Conclusió
-La gestió de processos és un aspecte crucial en el disseny i funcionament dels sistemes informàtics, i una comprensió profunda d'aquests conceptes és essencial per a qualsevol estudiant d'informàtica.
+# Conclusió
+La **gestió de processos** no és només un aspecte tècnic, sinó una part integral del disseny i funcionament dels sistemes informàtics contemporanis. La comprensió profunda d'aquests conceptes és essencial per als estudiants d'informàtica que aspiren a desenvolupar sistemes eficients i robustos.
