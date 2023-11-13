@@ -1,0 +1,2 @@
+## Introducció
+La gestió de processos és una part fonamental dels sistemes informàtics que permet la execució eficient i concurrent de diverses tasques. En el marc de la informàtica, els processos són instàncies en execució d'un programa, i la seva gestió és essencial per garantir un rendiment òptim del sistema.
