@@ -1,7 +1,12 @@
 # Pau-esliceu
 Aixó es un **text en negreta** i aixó un *text en cursiva*
 ## dos
-a continuació anam a [Currículum](FOL/Nadal_Puig_Pau_Currículum.pdf)
+A continuació anam a [Apunts FOL](/FOL)</br>
+A continuació anam a [Apunts Muntatge](/muntatge)</br>
+A continuació anam a [Apunts Ofimàtica](/ofimatica/)</br>
+A continuació anam a [Apunts Xarxes](/xarxes)</br>
+A continuació anam a [Apunts Sistemes](/sistemes)
+
 ### tercer apartat
 #### quatre
 ##### cinc
